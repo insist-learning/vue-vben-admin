@@ -70,5 +70,5 @@ function createEnterPlugin(maxOutput = 6) {
       },
     });
   };
-  return { handler };
+  return { handler1 };
 }
